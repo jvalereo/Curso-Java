@@ -1,0 +1,57 @@
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Curso Udemy - Aula31 funções matematica , tipos primitivos double
+		//Jonas Valereo - Técnico em Informática 
+		
+		//declarando as variavies tipo double 
+		
+		double x = 3.0;
+		double y = 4.0;
+		double z = -5.0;
+		double A, B, C; 
+		
+		//declarando as raizes da equação
+		
+		A = Math.sqrt(x);
+		B = Math.sqrt(y);
+		C = Math.sqrt(25.0);
+		
+		//imprimir saida de dados no console, concatenação
+		
+		System.out.println("Raiz quadrada de " + x + " = " + A);
+		System.out.println("Raiz quadrada de " + y + " = " + B);
+		System.out.println("Raiz quadrada de 25  = " + C);
+		
+		//declarando as raizes da equação
+		
+		A = Math.pow(x, y);
+		B = Math.pow(x, 2.0);
+		C = Math.pow(5.0, 2.0);
+		
+		//imprimir saida de dados no console, concatenação
+		
+		System.out.println(x + " elevado a " + y + " = " + A);
+		System.out.println(x + " elevado ao quadrado = " + A);
+		System.out.println("5 elevado ao quadrado = " + C);
+		
+		//declarando as raizes da equação
+		
+		A = Math.abs(y);
+		B = Math.abs(z);
+		
+		//imprimir saida de dados no console, concatenação
+		
+		System.out.println("Valor absoluto de " + y + " = " + A);
+		System.out.println("Valor absoluto de " + z + " = " +  B);
+		
+		// saida da aplicação na class system exit
+		
+		System.exit(0);
+		
+		//fim do programa
+	}
+
+}
