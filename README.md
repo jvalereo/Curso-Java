@@ -9,7 +9,7 @@
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
-# Curso Lógica de Programação e C#
+# Curso Lógica de Programação e Java
 
 <a href="#">
 <img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
@@ -17,21 +17,21 @@
 
 # Sobre o Curso e Projeto
 
-- Curso de lógica de programação e C#, excelente curso para quem quer aprender, fundamento de lógica e programãção C#.
-- Particularmente, adorei fazer este curso, para henriquecer minha experiência profissonal em tecnologia C#.
+- Curso de lógica de programação e Java, excelente curso para quem quer aprender, fundamento de lógica e programãção Java.
+- Particularmente, adorei fazer este curso, para henriquecer minha experiência profissonal em tecnologia Java.
 - As aulas, muito didática, fácil entendimento, tudo padronizado, apostila com ótimo entendimento e bem explicativas para o aluno.
 - Quero agradece pela oportunidade ao Professor Nélio Alves, excelente profissional de tecnologia, suas aulas são muito show em todas as explicações do curso.
 - Tenho formação Técnico em informática, mas sempre estou me aprimorando na aréa de teconologia.
-- Obs: Fiz vários projetos básico em C# nesse curso.
+- Obs: Fiz vários projetos básico em Java nesse curso.
 
 # Ferramenta Aplicada Neste Curso
 
-- IDE Visual Studio
+- IDE Eclipse
 
 # Tecnologia Aplicada no Projeto
 
 - Bak-end
-- C#
+- Java
 
 # Como Executa o Projeto
 
