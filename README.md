@@ -40,6 +40,3 @@ Curso Java Lógica de Programação
 # Autor
 
 - Jonas Valereo - Técnico em Informática 
-
-
-
